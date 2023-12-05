@@ -137,7 +137,7 @@ h2 {
 
 .bootstrapFooter:hover {
   -webkit-animation: shake-horizontal 0.8s cubic-bezier(0.455, 0.030, 0.515, 0.955) both;
-  animation: shake-horizontal 0.8s cubic-bezier(0.455, 0.030, 0.515, 0.955) bot8
+  animation: shake-horizontal 0.8s cubic-bezier(0.455, 0.030, 0.515, 0.955) both;
 }
 
 /* ----------------------------------------------

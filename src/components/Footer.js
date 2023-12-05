@@ -2,7 +2,7 @@ import React from 'react';
 import bslogo from "../img/bootstrap_logo.png"
 
 export default function Footer() {
-  return (
+	return (
 		<footer className="bg-dark d-flex flex-column align-items-center justify-content-center py-4 text-white fw-bolder">
 			<img
 				src={bslogo}
@@ -10,7 +10,7 @@ export default function Footer() {
 				className="img-fluid mb-3 bootstrapFooter"
 			/>
 			<p className="text-center mb-1">I learn and create everyday. </p>
-      <p className="mb-4">Let's create a project together!</p>
+			<p className="mb-4">Let's create a project together!</p>
 			<div className="d-flex flex-wrap align-items-center justify-content-center row-gap-3">
 				{/* <!-- Twitter --> */}
 				<a

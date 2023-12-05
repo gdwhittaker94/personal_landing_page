@@ -33,32 +33,32 @@ export default function Navbar() {
 					</a>
 					<ul className="navbar-nav d-flex justify-content-center align-items-center">
 						<li className="nav-item">
-							<a className="nav-link" href="./AboutMe.js/#about">
+							<a className="nav-link" href="#about">
 								About Me
 							</a>
 						</li>
 						<li className="nav-item">
-							<a className="nav-link" href="./Experience.js/#experience">
+							<a className="nav-link" href="#experience">
 								Experience
 							</a>
 						</li>
 						<li className="nav-item">
-							<a className="nav-link" href="./Projects.js/#projects">
+							<a className="nav-link" href="#projects">
 								Projects
 							</a>
 						</li>
 						<li className="nav-item">
-							<a className="nav-link" href="./Articles.js/#articles">
+							<a className="nav-link" href="#articles">
 								Articles
 							</a>
 						</li>
 						<li className="nav-item">
-							<a className="nav-link" href="./Testimonials.js/#testimonials">
+							<a className="nav-link" href="#testimonials">
 								Testimonials
 							</a>
 						</li>
 						<li className="nav-item">
-							<a className="nav-link" href="./Contact.js/#contact">
+							<a className="nav-link" href="#contact">
 								Contact
 							</a>
 						</li>
